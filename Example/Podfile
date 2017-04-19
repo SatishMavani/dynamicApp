@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'dynamicApp_Example' do
+  pod 'dynamicApp', :path => '../'
+
+  target 'dynamicApp_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
