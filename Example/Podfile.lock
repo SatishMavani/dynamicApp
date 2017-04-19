@@ -1,0 +1,16 @@
+PODS:
+  - dynamicApp (0.1.0)
+
+DEPENDENCIES:
+  - dynamicApp (from `../`)
+
+EXTERNAL SOURCES:
+  dynamicApp:
+    :path: ../
+
+SPEC CHECKSUMS:
+  dynamicApp: 269b385d2033cee08cff3cb302a87027eae7b252
+
+PODFILE CHECKSUM: 1a0e987db8605f622207cbcdd5f43010713c6160
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,6 @@
+framework module dynamicApp {
+  umbrella header "dynamicApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
